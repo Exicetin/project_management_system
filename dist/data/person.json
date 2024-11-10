@@ -1,0 +1,17 @@
+{
+    "perssons": [
+        {
+            "login": "admin",
+            "password": "qwerty123",
+            "id": 1,
+            "email": "admin@mail.ru"
+        },
+        {
+            "login": "user123",
+            "password": "Qwrty123",
+            "id": 2,
+            "email": "user@mail.ru"
+        }
+       
+    ]
+}
